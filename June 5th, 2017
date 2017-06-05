@@ -1,0 +1,4 @@
+made ball that moves in complete diagonals
+scoring system works, paddles dont make collision(will work on this later)
+i also want to work on a game over system
+along with a function that makes the game speed up depending on your score
